@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/damage.js" />
+        <item url="file://$PROJECT_DIR$/weapon.js" />
+        <item url="file://$PROJECT_DIR$/log.js" />
+        <item url="file://$PROJECT_DIR$/engine.js" />
+        <item url="file://$PROJECT_DIR$/main.js" />
+        <item url="file://$PROJECT_DIR$/agent_factory.js" />
+        <item url="file://$PROJECT_DIR$/skill.js" />
+        <item url="file://$PROJECT_DIR$/statuseffects.js" />
+        <item url="file://$PROJECT_DIR$/action.js" />
+        <item url="file://$PROJECT_DIR$/agent.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/skills.js" />
+      <root url="file://$PROJECT_DIR$/damage.js" />
+      <root url="file://$PROJECT_DIR$/weapon.js" />
+      <root url="file://$PROJECT_DIR$/log.js" />
+      <root url="file://$PROJECT_DIR$/engine.js" />
+      <root url="file://$PROJECT_DIR$/agent_factory.js" />
+      <root url="file://$PROJECT_DIR$/main.js" />
+      <root url="file://$PROJECT_DIR$/skill.js" />
+      <root url="file://$PROJECT_DIR$/statuseffects.js" />
+      <root url="file://$PROJECT_DIR$/agent.js" />
+      <root url="file://$PROJECT_DIR$/action.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
